@@ -1,0 +1,16 @@
+{
+    "name": "com.otz.assertion",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1f40e20a1abc0924a8417dad8ef7ca94"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
